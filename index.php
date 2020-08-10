@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nasa Technical Solutions</title>
     <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
-    <link rel="icon" href="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" type="image/x-icon">
+    <link rel="icon" href="assets/img/summer.png" type="image/x-icon">
 </head>
 
 <body>
@@ -21,7 +21,6 @@
     <!-- Body Head Ends Here -->
     <br>
     <!-- Footer Goes Here -->
-    <?php include "footer.php"; ?>
     <?php include "footer.php"; ?>
 
     <!-- Footer Goes Here -->

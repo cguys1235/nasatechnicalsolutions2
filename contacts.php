@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nasa Technical Solutions</title>
     <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
-    <link rel="icon" href="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" type="image/x-icon">
+    <link rel="icon" href="assets/img/summer.png" type="image/x-icon">
+
 </head>
 
 <body>
@@ -54,7 +55,9 @@
                             <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
                             <polyline points="22,6 12,13 2,6"></polyline>
                         </svg>
-                        <h2 class="title-font font-medium text-3xl text-gray-900">Location</h2>
+                        <h2 class="title-font font-medium text-3xl text-gray-900">
+                            <E-Mail></E-Mail>
+                        </h2>
                         <p class="leading-relaxed">nasatechnicalsolutions@gmail.com</p>
                     </div>
                 </div>
@@ -69,6 +72,28 @@
                     </div>
                 </div>
 
+            </div>
+        </div>
+    </section>
+    <section class="text-gray-700 body-font">
+        <div class="container px-5 py-24 mx-auto">
+            <div class="flex flex-wrap -m-4 text-center">
+                <div class="p-4 sm:w-1/4 w-1/2">
+                    <h2 class="title-font font-medium sm:text-4xl text-3xl text-gray-900">2.7K</h2>
+                    <p class="leading-relaxed">Users</p>
+                </div>
+                <div class="p-4 sm:w-1/4 w-1/2">
+                    <h2 class="title-font font-medium sm:text-4xl text-3xl text-gray-900">1.8K</h2>
+                    <p class="leading-relaxed">Subscribes</p>
+                </div>
+                <div class="p-4 sm:w-1/4 w-1/2">
+                    <h2 class="title-font font-medium sm:text-4xl text-3xl text-gray-900">35</h2>
+                    <p class="leading-relaxed">Downloads</p>
+                </div>
+                <div class="p-4 sm:w-1/4 w-1/2">
+                    <h2 class="title-font font-medium sm:text-4xl text-3xl text-gray-900">4</h2>
+                    <p class="leading-relaxed">Products</p>
+                </div>
             </div>
         </div>
     </section>
